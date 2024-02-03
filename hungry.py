@@ -5,3 +5,4 @@ if hungry=="yes" and hungry=="yo":
 	print("Eat Burger")
 else:
 	print("Do your homework")
+	print("HII")
